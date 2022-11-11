@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Cloud Computing.\
 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at qamberali4904@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://qambarali1.github.io/portfolio/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
